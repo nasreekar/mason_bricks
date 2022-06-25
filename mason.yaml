@@ -1,0 +1,4 @@
+bricks:
+  drift_crud:
+    path: bricks/drift_crud
+  model: ^0.3.7

@@ -1,0 +1,10 @@
+name: drift_crud
+description: A simple drift database CRUD operations brick
+version: 0.0.1
+
+vars:
+  table_name:
+    default: todo
+    type: string
+    description: The table name
+    prompt: What is the table name?
