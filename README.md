@@ -18,7 +18,7 @@
 
 ## Documentation
 
-- [Model](https://github.com/LukeMoody01/mason_bricks/tree/master/bricks/model)
+- [Drift CRUD](https://github.com/nasreekar/mason_bricks/tree/master/bricks/drift_crud)
 
 ## Contributing
 
