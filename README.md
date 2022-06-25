@@ -22,7 +22,7 @@
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/LukeMoody01/mason_bricks/tree/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/nasreekar/mason_bricks/tree/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Maintainers
 
