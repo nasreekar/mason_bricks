@@ -1,6 +1,7 @@
 name: drift_crud
 description: A simple drift database CRUD operations brick
 version: 0.0.1
+repository: https://github.com/nasreekar/mason_bricks/tree/master/bricks/drift_crud
 
 vars:
   table_name:
